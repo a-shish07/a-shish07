@@ -1,5 +1,5 @@
 ASHISH KUMAR DUBEY
-- 👋 Hi, I’m @a-shish07 , currently upgrading myself:)
+- 👋 Hii, I’m @a-shish07 , currently upgrading myself:)
 - 👀 I’m interested in Competitive Programming and Backend Development
 - 🌱 I’m currently pursuing Btech from Bundelkhand University
 - 💞️ I’m looking to collaborate on Projects on Node.js 
