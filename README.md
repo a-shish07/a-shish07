@@ -3,7 +3,7 @@ ASHISH KUMAR DUBEY
 -  Keep Things as Simple as you can !!
 -  Doing  Competitive Programming for fun  and learning Backend Development for skill.
 -  Pursuing Btech from Bundelkhand University.
--  Looking to collaborate on Projects on Node.js 
+-  Looking to collaborate on Projects on Node.js.
 -  Want to Reach me:ashishdubeyak04@gmail.com 
 
 <!---
