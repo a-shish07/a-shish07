@@ -64,12 +64,7 @@ ASHISH KUMAR DUBEY
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=a-shish07&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=10&order=3" height="75" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-shish07&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-shish07/a-shish07/output/pacman-contribution-graph-dark.svg">
@@ -77,4 +72,12 @@ ASHISH KUMAR DUBEY
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/a-shish07/a-shish07/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=a-shish07&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-shish07&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 ###
